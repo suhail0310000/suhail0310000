@@ -9,7 +9,7 @@ Boostrap
 Javascript (react.js, vue.js, Jquery)
 
 Backend:
-Java, .NET, Python(flask)
+Java, .NET, Python(flask), C#
 
 Databases:
 SQL, NoSQL
