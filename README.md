@@ -15,7 +15,7 @@ Databases:
 SQL, NoSQL
 
 Devops:
-Docker, Azure
+Docker, Azure, Azure devops, testautomation CI/CD
 
 I know a bit of:
 Linux, Powershell, Shell scripts
