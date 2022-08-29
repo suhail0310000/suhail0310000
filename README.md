@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Suhail, a computer science student at Oslomet
+### Hi there 👋 I'm Suhail, fullstack developer at Sopra Steria in C#
+
+Certifications: 
+AZ-204 Azure developer
 
 The current programming langauges I know are:
 
